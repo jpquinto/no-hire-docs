@@ -1,0 +1,28 @@
+{
+  "id": "tutorial/files/uploading",
+  "title": "Uploading Your Files",
+  "description": "",
+  "source": "@site/docs/tutorial/files/uploading.md",
+  "sourceDirName": "tutorial/files",
+  "slug": "/tutorial/files/uploading",
+  "permalink": "/docs/tutorial/files/uploading",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Resumes and Cover Letters",
+    "permalink": "/docs/category/resumes-and-cover-letters"
+  },
+  "next": {
+    "title": "Networking",
+    "permalink": "/docs/category/networking"
+  }
+}

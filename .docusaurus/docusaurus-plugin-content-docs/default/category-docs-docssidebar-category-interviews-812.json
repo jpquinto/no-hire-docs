@@ -1,0 +1,16 @@
+{
+  "title": "Interviews",
+  "description": "Congrats! You finally got an interview. Now what? NoHire provides a space for you to prepare for the interview process. We have a list of practice questions, tips, and resources to help you prepare for the big day. Good luck!",
+  "slug": "/category/interviews",
+  "permalink": "/docs/category/interviews",
+  "navigation": {
+    "previous": {
+      "title": "Contacts",
+      "permalink": "/docs/tutorial/networking/contacts"
+    },
+    "next": {
+      "title": "Logging Your First Interview",
+      "permalink": "/docs/tutorial/interviews/first-interview"
+    }
+  }
+}

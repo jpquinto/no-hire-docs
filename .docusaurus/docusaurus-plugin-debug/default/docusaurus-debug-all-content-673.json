@@ -1,0 +1,521 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\Jeremy Quinto\\OneDrive\\Desktop\\no-hire-docs\\sidebars.js",
+          "contentPath": "C:\\Users\\Jeremy Quinto\\OneDrive\\Desktop\\no-hire-docs\\docs",
+          "contentPathLocalized": "C:\\Users\\Jeremy Quinto\\OneDrive\\Desktop\\no-hire-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "intro",
+              "title": "Welcome!",
+              "description": "Welcome to my brand new website for tutoring! Find practice problems, resources, and (maybe in the future) videos to supplement our tutoring sessions!",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              }
+            },
+            {
+              "id": "tutorial/applications/applications",
+              "title": "Tracking Applications",
+              "description": "",
+              "source": "@site/docs/tutorial/applications/applications.md",
+              "sourceDirName": "tutorial/applications",
+              "slug": "/tutorial/applications/",
+              "permalink": "/docs/tutorial/applications/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Applications",
+                "permalink": "/docs/category/applications"
+              },
+              "next": {
+                "title": "Notes",
+                "permalink": "/docs/category/notes"
+              }
+            },
+            {
+              "id": "tutorial/files/uploading",
+              "title": "Uploading Your Files",
+              "description": "",
+              "source": "@site/docs/tutorial/files/uploading.md",
+              "sourceDirName": "tutorial/files",
+              "slug": "/tutorial/files/uploading",
+              "permalink": "/docs/tutorial/files/uploading",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Resumes and Cover Letters",
+                "permalink": "/docs/category/resumes-and-cover-letters"
+              },
+              "next": {
+                "title": "Networking",
+                "permalink": "/docs/category/networking"
+              }
+            },
+            {
+              "id": "tutorial/flashcards/creating-cards",
+              "title": "Creating Cards",
+              "description": "",
+              "source": "@site/docs/tutorial/flashcards/creating-cards.md",
+              "sourceDirName": "tutorial/flashcards",
+              "slug": "/tutorial/flashcards/creating-cards",
+              "permalink": "/docs/tutorial/flashcards/creating-cards",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Flashcards",
+                "permalink": "/docs/category/flashcards"
+              },
+              "next": {
+                "title": "Integration",
+                "permalink": "/docs/category/integration"
+              }
+            },
+            {
+              "id": "tutorial/integration/notion",
+              "title": "Notion Integration",
+              "description": "",
+              "source": "@site/docs/tutorial/integration/notion.md",
+              "sourceDirName": "tutorial/integration",
+              "slug": "/tutorial/integration/notion",
+              "permalink": "/docs/tutorial/integration/notion",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Integration",
+                "permalink": "/docs/category/integration"
+              }
+            },
+            {
+              "id": "tutorial/interviews/first-interview",
+              "title": "Logging Your First Interview",
+              "description": "",
+              "source": "@site/docs/tutorial/interviews/first-interview.md",
+              "sourceDirName": "tutorial/interviews",
+              "slug": "/tutorial/interviews/first-interview",
+              "permalink": "/docs/tutorial/interviews/first-interview",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Interviews",
+                "permalink": "/docs/category/interviews"
+              },
+              "next": {
+                "title": "Flashcards",
+                "permalink": "/docs/category/flashcards"
+              }
+            },
+            {
+              "id": "tutorial/networking/contacts",
+              "title": "Contacts",
+              "description": "",
+              "source": "@site/docs/tutorial/networking/contacts.md",
+              "sourceDirName": "tutorial/networking",
+              "slug": "/tutorial/networking/contacts",
+              "permalink": "/docs/tutorial/networking/contacts",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Networking",
+                "permalink": "/docs/category/networking"
+              },
+              "next": {
+                "title": "Interviews",
+                "permalink": "/docs/category/interviews"
+              }
+            },
+            {
+              "id": "tutorial/notes/notes",
+              "title": "Taking Notes",
+              "description": "",
+              "source": "@site/docs/tutorial/notes/notes.md",
+              "sourceDirName": "tutorial/notes",
+              "slug": "/tutorial/notes/",
+              "permalink": "/docs/tutorial/notes/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "sidebar-position": 1
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Notes",
+                "permalink": "/docs/category/notes"
+              },
+              "next": {
+                "title": "Resumes and Cover Letters",
+                "permalink": "/docs/category/resumes-and-cover-letters"
+              }
+            },
+            {
+              "id": "tutorial/welcome/about",
+              "title": "About NoHire (and Me)",
+              "description": "NoHire is a passion project from me, Jeremy Quinto!",
+              "source": "@site/docs/tutorial/welcome/about.md",
+              "sourceDirName": "tutorial/welcome",
+              "slug": "/tutorial/welcome/about",
+              "permalink": "/docs/tutorial/welcome/about",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "What is NoHire?",
+                "permalink": "/docs/tutorial/welcome/overview"
+              },
+              "next": {
+                "title": "Tech Stack",
+                "permalink": "/docs/tutorial/welcome/tech-stack"
+              }
+            },
+            {
+              "id": "tutorial/welcome/overview",
+              "title": "What is NoHire?",
+              "description": "",
+              "source": "@site/docs/tutorial/welcome/overview.md",
+              "sourceDirName": "tutorial/welcome",
+              "slug": "/tutorial/welcome/overview",
+              "permalink": "/docs/tutorial/welcome/overview",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Quickstart Guide",
+                "permalink": "/docs/tutorial/welcome/quick-start-guide"
+              },
+              "next": {
+                "title": "About NoHire (and Me)",
+                "permalink": "/docs/tutorial/welcome/about"
+              }
+            },
+            {
+              "id": "tutorial/welcome/quick-start-guide",
+              "title": "Quickstart Guide",
+              "description": "",
+              "source": "@site/docs/tutorial/welcome/quick-start-guide.md",
+              "sourceDirName": "tutorial/welcome",
+              "slug": "/tutorial/welcome/quick-start-guide",
+              "permalink": "/docs/tutorial/welcome/quick-start-guide",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Welcome to NoHire!",
+                "permalink": "/docs/category/welcome-to-nohire"
+              },
+              "next": {
+                "title": "What is NoHire?",
+                "permalink": "/docs/tutorial/welcome/overview"
+              }
+            },
+            {
+              "id": "tutorial/welcome/tech-stack",
+              "title": "Tech Stack",
+              "description": "For any technical people wondering about the tech stack used for this project, you've come to the right place!",
+              "source": "@site/docs/tutorial/welcome/tech-stack.md",
+              "sourceDirName": "tutorial/welcome",
+              "slug": "/tutorial/welcome/tech-stack",
+              "permalink": "/docs/tutorial/welcome/tech-stack",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "About NoHire (and Me)",
+                "permalink": "/docs/tutorial/welcome/about"
+              },
+              "next": {
+                "title": "Applications",
+                "permalink": "/docs/category/applications"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "docsSidebar": [
+              {
+                "type": "category",
+                "label": "Welcome to NoHire!",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial/welcome/quick-start-guide"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial/welcome/overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial/welcome/about"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial/welcome/tech-stack"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Welcome!",
+                  "slug": "/category/welcome-to-nohire",
+                  "permalink": "/docs/category/welcome-to-nohire"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Applications",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial/applications/applications"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "The heart and soul of any job search, applications are the first step to getting hired. Keep a detailed record of all of your applications, track their progress, and create your plan of attack for each of them, all in one place!",
+                  "slug": "/category/applications",
+                  "permalink": "/docs/category/applications"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Notes",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial/notes/notes"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "You can create notes for just about everything in NoHire!",
+                  "slug": "/category/notes",
+                  "permalink": "/docs/category/notes"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Resumes and Cover Letters",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial/files/uploading"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "NoHire allows you to upload all of your resumes, cover letters, and any other files, and then search through them to find the one you need. You can also add notes to each file to help you remember what you liked or didn't like about it.",
+                  "slug": "/category/resumes-and-cover-letters",
+                  "permalink": "/docs/category/resumes-and-cover-letters"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Networking",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial/networking/contacts"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "NoHire can't force people to be friends with you, but it can at least help and motivate you to reach out to people that will help your career.",
+                  "slug": "/category/networking",
+                  "permalink": "/docs/category/networking"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Interviews",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial/interviews/first-interview"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Congrats! You finally got an interview. Now what? NoHire provides a space for you to prepare for the interview process. We have a list of practice questions, tips, and resources to help you prepare for the big day. Good luck!",
+                  "slug": "/category/interviews",
+                  "permalink": "/docs/category/interviews"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Flashcards",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial/flashcards/creating-cards"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Quiz time!",
+                  "slug": "/category/flashcards",
+                  "permalink": "/docs/category/flashcards"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Integration",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial/integration/notion"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Integration",
+                  "slug": "/category/integration",
+                  "permalink": "/docs/category/integration"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

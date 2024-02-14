@@ -1,0 +1,12 @@
+{
+  "title": "Welcome to NoHire!",
+  "description": "Welcome!",
+  "slug": "/category/welcome-to-nohire",
+  "permalink": "/docs/category/welcome-to-nohire",
+  "navigation": {
+    "next": {
+      "title": "Quickstart Guide",
+      "permalink": "/docs/tutorial/welcome/quick-start-guide"
+    }
+  }
+}

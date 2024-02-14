@@ -1,0 +1,127 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "tutorial/welcome/quick-start-guide",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro"
+            },
+            {
+              "id": "tutorial/applications/applications",
+              "path": "/docs/tutorial/applications/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "tutorial/files/uploading",
+              "path": "/docs/tutorial/files/uploading",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "tutorial/flashcards/creating-cards",
+              "path": "/docs/tutorial/flashcards/creating-cards",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "tutorial/integration/notion",
+              "path": "/docs/tutorial/integration/notion",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "tutorial/interviews/first-interview",
+              "path": "/docs/tutorial/interviews/first-interview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "tutorial/networking/contacts",
+              "path": "/docs/tutorial/networking/contacts",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "tutorial/notes/notes",
+              "path": "/docs/tutorial/notes/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "tutorial/welcome/about",
+              "path": "/docs/tutorial/welcome/about",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "tutorial/welcome/overview",
+              "path": "/docs/tutorial/welcome/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "tutorial/welcome/quick-start-guide",
+              "path": "/docs/tutorial/welcome/quick-start-guide",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "tutorial/welcome/tech-stack",
+              "path": "/docs/tutorial/welcome/tech-stack",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/welcome-to-nohire",
+              "path": "/docs/category/welcome-to-nohire",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/applications",
+              "path": "/docs/category/applications",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/notes",
+              "path": "/docs/category/notes",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/resumes-and-cover-letters",
+              "path": "/docs/category/resumes-and-cover-letters",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/networking",
+              "path": "/docs/category/networking",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/interviews",
+              "path": "/docs/category/interviews",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/flashcards",
+              "path": "/docs/category/flashcards",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/integration",
+              "path": "/docs/category/integration",
+              "sidebar": "docsSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docsSidebar": {
+              "link": {
+                "path": "/docs/category/welcome-to-nohire",
+                "label": "Welcome to NoHire!"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

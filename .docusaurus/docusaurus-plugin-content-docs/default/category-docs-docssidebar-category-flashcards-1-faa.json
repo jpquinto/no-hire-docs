@@ -1,0 +1,16 @@
+{
+  "title": "Flashcards",
+  "description": "Quiz time!",
+  "slug": "/category/flashcards-1",
+  "permalink": "/docs/category/flashcards-1",
+  "navigation": {
+    "previous": {
+      "title": "Creating Cards",
+      "permalink": "/docs/tutorial/flashcards/creating-cards"
+    },
+    "next": {
+      "title": "Creating Cards",
+      "permalink": "/docs/tutorial/integration/creating-cards"
+    }
+  }
+}

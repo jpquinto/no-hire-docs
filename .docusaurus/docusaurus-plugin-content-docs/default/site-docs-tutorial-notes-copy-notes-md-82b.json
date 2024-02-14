@@ -1,0 +1,23 @@
+{
+  "id": "tutorial/notes copy/notes",
+  "title": "Taking Notes",
+  "description": "",
+  "source": "@site/docs/tutorial/notes copy/notes.md",
+  "sourceDirName": "tutorial/notes copy",
+  "slug": "/tutorial/notes copy/notes",
+  "permalink": "/docs/tutorial/notes copy/notes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "sidebar-position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Notes",
+    "permalink": "/docs/category/notes-1"
+  }
+}

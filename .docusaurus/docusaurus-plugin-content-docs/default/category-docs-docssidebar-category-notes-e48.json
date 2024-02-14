@@ -1,0 +1,16 @@
+{
+  "title": "Notes",
+  "description": "You can create notes for just about everything in NoHire!",
+  "slug": "/category/notes",
+  "permalink": "/docs/category/notes",
+  "navigation": {
+    "previous": {
+      "title": "Tracking Applications",
+      "permalink": "/docs/tutorial/applications/"
+    },
+    "next": {
+      "title": "Taking Notes",
+      "permalink": "/docs/tutorial/notes/"
+    }
+  }
+}

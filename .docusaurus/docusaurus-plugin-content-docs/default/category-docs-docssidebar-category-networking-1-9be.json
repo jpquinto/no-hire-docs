@@ -1,0 +1,16 @@
+{
+  "title": "Networking",
+  "description": "NoHire can't force people to be friends with you, but it can at least help and motivate you to reach out to people that will help your career.",
+  "slug": "/category/networking-1",
+  "permalink": "/docs/category/networking-1",
+  "navigation": {
+    "previous": {
+      "title": "Contacts",
+      "permalink": "/docs/tutorial/interviews/contacts"
+    },
+    "next": {
+      "title": "Contacts",
+      "permalink": "/docs/tutorial/networking/contacts"
+    }
+  }
+}

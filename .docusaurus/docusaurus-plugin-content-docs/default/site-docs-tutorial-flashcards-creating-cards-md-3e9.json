@@ -1,0 +1,28 @@
+{
+  "id": "tutorial/flashcards/creating-cards",
+  "title": "Creating Cards",
+  "description": "",
+  "source": "@site/docs/tutorial/flashcards/creating-cards.md",
+  "sourceDirName": "tutorial/flashcards",
+  "slug": "/tutorial/flashcards/creating-cards",
+  "permalink": "/docs/tutorial/flashcards/creating-cards",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Flashcards",
+    "permalink": "/docs/category/flashcards"
+  },
+  "next": {
+    "title": "Integration",
+    "permalink": "/docs/category/integration"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tutorial/welcome/quick-start-guide",
+  "title": "Quickstart Guide",
+  "description": "",
+  "source": "@site/docs/tutorial/welcome/quick-start-guide.md",
+  "sourceDirName": "tutorial/welcome",
+  "slug": "/tutorial/welcome/quick-start-guide",
+  "permalink": "/docs/tutorial/welcome/quick-start-guide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Welcome to NoHire!",
+    "permalink": "/docs/category/welcome-to-nohire"
+  },
+  "next": {
+    "title": "What is NoHire?",
+    "permalink": "/docs/tutorial/welcome/overview"
+  }
+}

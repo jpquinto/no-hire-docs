@@ -1,0 +1,16 @@
+{
+  "title": "Flashcards",
+  "description": "Quiz time!",
+  "slug": "/category/flashcards",
+  "permalink": "/docs/category/flashcards",
+  "navigation": {
+    "previous": {
+      "title": "Logging Your First Interview",
+      "permalink": "/docs/tutorial/interviews/first-interview"
+    },
+    "next": {
+      "title": "Creating Cards",
+      "permalink": "/docs/tutorial/flashcards/creating-cards"
+    }
+  }
+}

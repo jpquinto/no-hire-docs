@@ -1,0 +1,16 @@
+{
+  "title": "Integration",
+  "description": "Integration",
+  "slug": "/category/integration",
+  "permalink": "/docs/category/integration",
+  "navigation": {
+    "previous": {
+      "title": "Creating Cards",
+      "permalink": "/docs/tutorial/flashcards/creating-cards"
+    },
+    "next": {
+      "title": "Notion Integration",
+      "permalink": "/docs/tutorial/integration/notion"
+    }
+  }
+}

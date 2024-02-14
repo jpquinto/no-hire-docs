@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'JQ Tutoring',
-  tagline: 'Learn Math CS!',
+  title: 'NoHire',
+  tagline: 'Catchy tagline',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'JPQ',
+        title: 'NoHire',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -73,21 +73,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'algebra1Sidebar',
+            sidebarId: 'docsSidebar',
             position: 'left',
-            label: 'Algebra 1',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'geometrySidebar',
-            position: 'left',
-            label: 'Geometry',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'algebra2Sidebar',
-            position: 'left',
-            label: 'Algebra 2',
+            label: 'Tutorials',
           },
         ],
       },
@@ -99,7 +87,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/category/welcome-to-nohire',
               },
             ],
           },
@@ -121,20 +109,16 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Support Me!',
             items: [
               {
-                label: 'Blog',
-                to: '/',
-              },
-              {
-                label: 'GitHub',
+                label: 'Patreon',
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} JQ Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} NoHire, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

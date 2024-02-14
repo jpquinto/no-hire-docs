@@ -1,0 +1,27 @@
+{
+  "id": "tutorial/notes/notes",
+  "title": "Taking Notes",
+  "description": "",
+  "source": "@site/docs/tutorial/notes/notes.md",
+  "sourceDirName": "tutorial/notes",
+  "slug": "/tutorial/notes/",
+  "permalink": "/docs/tutorial/notes/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "sidebar-position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Notes",
+    "permalink": "/docs/category/notes"
+  },
+  "next": {
+    "title": "Resumes and Cover Letters",
+    "permalink": "/docs/category/resumes-and-cover-letters"
+  }
+}

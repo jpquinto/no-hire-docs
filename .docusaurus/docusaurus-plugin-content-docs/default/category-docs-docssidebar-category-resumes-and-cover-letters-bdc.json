@@ -1,0 +1,16 @@
+{
+  "title": "Resumes and Cover Letters",
+  "description": "NoHire allows you to upload all of your resumes, cover letters, and any other files, and then search through them to find the one you need. You can also add notes to each file to help you remember what you liked or didn't like about it.",
+  "slug": "/category/resumes-and-cover-letters",
+  "permalink": "/docs/category/resumes-and-cover-letters",
+  "navigation": {
+    "previous": {
+      "title": "Taking Notes",
+      "permalink": "/docs/tutorial/notes/"
+    },
+    "next": {
+      "title": "Uploading Your Files",
+      "permalink": "/docs/tutorial/files/uploading"
+    }
+  }
+}

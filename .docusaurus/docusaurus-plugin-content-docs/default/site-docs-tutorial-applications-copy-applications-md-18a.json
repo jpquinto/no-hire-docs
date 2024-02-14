@@ -1,0 +1,28 @@
+{
+  "id": "tutorial/applications copy/applications",
+  "title": "Tracking Applications",
+  "description": "",
+  "source": "@site/docs/tutorial/applications copy/applications.md",
+  "sourceDirName": "tutorial/applications copy",
+  "slug": "/tutorial/applications copy/applications",
+  "permalink": "/docs/tutorial/applications copy/applications",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Applications",
+    "permalink": "/docs/category/applications-1"
+  },
+  "next": {
+    "title": "Notes",
+    "permalink": "/docs/category/notes"
+  }
+}

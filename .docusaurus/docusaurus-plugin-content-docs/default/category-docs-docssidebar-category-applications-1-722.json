@@ -1,0 +1,16 @@
+{
+  "title": "Applications",
+  "description": "The heart and soul of any job search, applications are the first step to getting hired. Keep a detailed record of all of your applications, track their progress, and create your plan of attack for each of them, all in one place!",
+  "slug": "/category/applications-1",
+  "permalink": "/docs/category/applications-1",
+  "navigation": {
+    "previous": {
+      "title": "Contacts",
+      "permalink": "/docs/tutorial/networking/contacts"
+    },
+    "next": {
+      "title": "Tracking Applications",
+      "permalink": "/docs/tutorial/flashcards/applications"
+    }
+  }
+}
